@@ -1,6 +1,6 @@
 ## Sidney Nobre 👨‍💻
 #### Graduated in Information Systems
-#### Software developer
+#### Software Developer
 
 <p align="right">
 <a href="https://twitter.com/sidneynobre7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sidneynobre7" height="30" width="30" /></a>
